@@ -1,0 +1,15 @@
+Java Launcher: C:\Program Files\Eclipse Adoptium\jdk-17.0.13.11-hotspot\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, C:\Users\Cole\.gradle\caches\modules-2\files-2.1\curse.maven\patchouli-306770\6164575\e91d2e2f251375d647d592b670ea6f310c2554eb\patchouli-306770-6164575.jar, --output, C:\Users\Cole\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\patchouli-306770\6164575_mapped_official_1.20.1\patchouli-306770-6164575_mapped_official_1.20.1.jar, --mcp, C:\Users\Cole\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.20.1\mapping-1.20.1-mapping.zip, --strip-signatures'
+Classpath:
+ - C:\Users\Cole\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.4.4\installertools-1.4.4-fatjar.jar
+Working directory: C:\Users\Cole\Desktop\Hex-Smith\build\_RenameSrg2Mcp_-1988931187
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  C:\Users\Cole\.gradle\caches\modules-2\files-2.1\curse.maven\patchouli-306770\6164575\e91d2e2f251375d647d592b670ea6f310c2554eb\patchouli-306770-6164575.jar
+Output: C:\Users\Cole\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\patchouli-306770\6164575_mapped_official_1.20.1\patchouli-306770-6164575_mapped_official_1.20.1.jar
+MCP:    C:\Users\Cole\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.20.1\mapping-1.20.1-mapping.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete
